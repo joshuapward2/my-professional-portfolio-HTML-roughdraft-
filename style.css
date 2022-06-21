@@ -3,48 +3,112 @@
     margin: 0;
     font-family: 'josefin sans';
     color: antiquewhite;
-   
+    
 }
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    gap: 25px 25px 25px 25px;
+    row-gap: 25px;
+    column-gap: 25px;
+}
+
+h1, nav{
+
+    display:inline-flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
 
 body {
     background-image: url("mountain sunset.jpeg");
+    align-items: center;
 }
 
 
 
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    padding-top: 25px;
-    padding-left: 7%;
-    padding-right: 7%;
-    font-size: larger;
-    background-color: grey;
 
+nav {
+
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px ;
+    font-size: larger;
      
 }
 
-.name {
+
+
+
+.name, h2 {
     text-align: centered;
-    text-decoration: underline;
+   
     cursor: pointer;
 
 }
 nav, ul, li {
 
-    float: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     padding: 5px 5px
-    
+    list-style-type: none;
+    float: :right
 }
-    
 
-   
+section  {
     
-    
+    font-size: medium;
 
-    
-   
-   
 
 }
+
+.content{
+    border: 3px solid white ;
+    background-color: black;
+}
+
+.pics {
+
+height: 50%;
+width: 100%;
+border: 5px;
+border-image: stretch;
+border-style: ridge;
+}
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+  
+    
+
+   
+    
+    
+
+    
+   
+   
+
