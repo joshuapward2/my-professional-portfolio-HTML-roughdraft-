@@ -13,13 +13,12 @@ CSS
 
 # Website
 
-https://github.com/joshuapward2/my-professional-portfolio
+link to my GitHub repository: https://github.com/joshuapward2/my-professional-portfolio
 
+link to deployed application url: https://joshuapward2.github.io/my-professional-portfolio/
 
 
 
 # Screenshots
 
-Image 6-21-22 at 1.18 PM.jpg
-Image 6-21-22 at 1.27 PM.jpg
-Image 6-21-22 at 1.27 PM 2.jpg
+![](assets/images/joshuapward2.github.io_my-professional-portfolio_.png)
