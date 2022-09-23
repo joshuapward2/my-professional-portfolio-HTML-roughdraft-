@@ -67,22 +67,24 @@ nav, ul, li {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    padding: 5px 5px
+    padding: 5px 5px;
     list-style-type: none;
-    float: :right
+   
 }
 
-section  {
-    
-    font-size: medium;
+/* section {
+    background-image: url("../images/IMG_8018.jpeg");
+    background-repeat: no-repeat;
+    min-height: 95%;
+    font-family: 'Numans', sans-serif;
+    align-content: center;
+    flex-wrap: wrap;
+    } */
 
-
-}
-
-.content{
+/* .content{
     border: 3px solid white ;
     background-color: black;
-}
+} */
 
 .pics {
 
